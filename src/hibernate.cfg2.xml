@@ -17,6 +17,7 @@
 
  <mapping class="com.admin.bean.Admin"/>
  <mapping class="com.admin.bean.Device"/>
+ <mapping class="com.admin.bean.AdminOTP"/>
  
   </session-factory>
  
